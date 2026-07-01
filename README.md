@@ -1,16 +1,21 @@
-## Hi there 👋
+## Administrateur Systèmes & Réseaux | DevOps & Cloud en construction
 
-<!--
-**Shanks69000/Shanks69000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alternant chez Lexfo (cybersécurité, Lyon). En recherche d'alternance Mastère Expert Cloud, Sécurité & Infrastructure pour octobre 2026.
 
-Here are some ideas to get you started:
+2 ans d'expérience en production sur de l'infra Linux, automatisation et sécurisation de services internes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+**Production** : Ansible, Docker, GitLab CI/CD, Nginx, NFTables, WireGuard, LDAP, Proxmox, Scaleway
+
+**En montée de compétence** : Terraform, Kubernetes (K3s), AWS
+
+### Projets
+
+| Repo | Description |
+|---|---|
+| [infra-as-code-homelab](https://github.com/Shanks69000/infra-as-code-homelab) | Provisionnement Terraform + configuration Ansible d'un homelab Proxmox avec cluster K3s et apps Kubernetes |
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-legay/)
