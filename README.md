@@ -17,6 +17,7 @@ Alternant chez Lexfo (cybersécurité, Lyon). En recherche d'alternance Mastère
 | [infra-as-code-homelab](https://github.com/Shanks69000/infra-as-code-homelab) | Provisionnement Terraform + configuration Ansible d'un homelab Proxmox avec cluster K3s et apps Kubernetes |
 | [docker-compose-stack](https://github.com/Shanks69000/docker-compose-stack) | Stack Docker Compose : Nginx reverse proxy, Authelia SSO/2FA, Homer, Uptime Kuma |
 | [ci-cd-pipeline-demo](https://github.com/Shanks69000/ci-cd-pipeline-demo) | Pipeline GitHub Actions multi-stage : lint, test, build Docker, push GHCR |
+| [infra-health-checker](https://github.com/Shanks69000/infra-health-checker) | Bot de vérification d'infra déclaratif : HTTP, TLS, TCP, DNS. Rapports auto via GitHub Actions |
 
 ### Contact
 
