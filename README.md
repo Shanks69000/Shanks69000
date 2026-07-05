@@ -20,6 +20,7 @@ Alternant chez Lexfo (cybersécurité, Lyon). En recherche d'alternance Mastère
 | [infra-health-checker](https://github.com/Shanks69000/infra-health-checker) | Bot de vérification d'infra déclaratif : HTTP, TLS, TCP, DNS. Rapports auto via GitHub Actions |
 | [wiki-sync-bot](https://github.com/Shanks69000/wiki-sync-bot) | Bot de sync inventaire YAML → wiki Outline. Templates services/serveurs, dry-run, API upsert |
 | [k8s-apps-deployment](https://github.com/Shanks69000/k8s-apps-deployment) | Déploiements K8s avec Kustomize, NetworkPolicies, quotas, overlays multi-env |
+| [helm-charts](https://github.com/Shanks69000/helm-charts) | Charts Helm pour déploiements K8s. CronJob health-checker packagé et testé sur K3s |
 
 ### Contact
 
