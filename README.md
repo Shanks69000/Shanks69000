@@ -21,6 +21,7 @@ Alternant chez Lexfo (cybersécurité, Lyon). En recherche d'alternance Mastère
 | [wiki-sync-bot](https://github.com/Shanks69000/wiki-sync-bot) | Bot de sync inventaire YAML → wiki Outline. Templates services/serveurs, dry-run, API upsert |
 | [k8s-apps-deployment](https://github.com/Shanks69000/k8s-apps-deployment) | Déploiements K8s avec Kustomize, NetworkPolicies, quotas, overlays multi-env |
 | [helm-charts](https://github.com/Shanks69000/helm-charts) | Charts Helm pour déploiements K8s. CronJob health-checker packagé et testé sur K3s |
+| [ansible-drift-detector](https://github.com/Shanks69000/ansible-drift-detector) | Détection de drift Ansible via GitHub Actions, tunnel WireGuard vers réseau privé, notification email |
 
 ### Contact
 
