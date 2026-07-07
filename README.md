@@ -25,7 +25,7 @@ Alternant chez Lexfo (cybersécurité, Lyon). En recherche d'alternance Mastère
 
 ## Flux réseau
 
-Vue d'ensemble des flux réseau/applicatifs de l'ensemble des projets : [flux-projets.md](https://github.com/Shanks69000/ansible-drift-detector/blob/main/docs/flux-projets.md)
+Vue d'ensemble des flux réseau/applicatifs de l'ensemble des projets : [flux-projets.md](https://github.com/Shanks69000/Shanks69000/blob/main/flux-projets.md)
 
 ### Contact
 
