@@ -23,6 +23,10 @@ Alternant chez Lexfo (cybersécurité, Lyon). En recherche d'alternance Mastère
 | [helm-charts](https://github.com/Shanks69000/helm-charts) | Charts Helm pour déploiements K8s. CronJob health-checker packagé et testé sur K3s |
 | [ansible-drift-detector](https://github.com/Shanks69000/ansible-drift-detector) | Détection de drift Ansible via GitHub Actions, tunnel WireGuard vers réseau privé, notification email |
 
+## Flux réseau
+
+Vue d'ensemble des flux réseau/applicatifs de l'ensemble des projets : [flux-projets.md](https://github.com/Shanks69000/ansible-drift-detector/blob/main/docs/flux-projets.md)
+
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-legay/)
